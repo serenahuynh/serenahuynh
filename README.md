@@ -14,7 +14,7 @@
   <p>
   💻 &nbsp; I'm currently working on my personal website </br>
   📚 &nbsp; I'm currently learning C++, Android Development, and JavaScript </br>
-  🙋🏻‍♀️ &nbsp; My hobbies include swimming, embroidering, drawing, and diamond painting! </br>    
+  🙋🏻‍♀️ &nbsp; My hobbies include swimming, crocheting, drawing, and diamond painting! </br>    
   </p>
   <p>
   You can reach me at: <br>
