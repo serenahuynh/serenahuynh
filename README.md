@@ -9,7 +9,7 @@
   <p>
     &emsp; Currently stuyding <em>Computer Science</em> at University of Southern California. (Fight On, Trojans! ✌🏻❤️💛) </br>
     &emsp; &emsp; - Minoring in <em>Mobile App Development</em> 📱 </br>
-    &emsp; An aspiring Software Engineer. 👩🏻‍💻
+    &emsp; An aspiring Software Engineer or Mobile App Developer. 👩🏻‍💻
   </p>
   <p>
   💻 &nbsp; I'm currently working on my personal website </br>
