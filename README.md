@@ -13,7 +13,7 @@
   </p>
   <p>
   💻 &nbsp; I'm currently working on my personal website </br>
-  📚 &nbsp; I'm currently learning Android Development and JavaScript </br>
+  📚 &nbsp; I'm currently learning Android Development</br>
   </p>
   <p>
   You can reach me at: <br>
