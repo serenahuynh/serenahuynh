@@ -18,7 +18,6 @@
   You can reach me at: <br>
   <a href = "https://www.linkedin.com/in/serenahuynh/" target = "_blank"> LinkedIn </a> </br>
   <a href = "https://www.instagram.com/serenahuyn/" target = "_blank"> Instagram </a> </br>
-  <a href = "https://www.facebook.com/serenahuyn/" target = "_blank"> Facebook </a> </br>
   
   </p>
   </html>
