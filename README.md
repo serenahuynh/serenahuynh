@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <h3>
-    Hello! Thanks for coming on by!👋🏻 </br>
+    Hello! 👋🏻 </br>
   </h3>
   <h3> My name is <strong>Serena Huynh</strong> </h3>
   <p> <em>Prounouns: She/Her</em> </p>
@@ -12,8 +12,7 @@
     &emsp; An aspiring Software Engineer or Mobile App Developer. 👩🏻‍💻
   </p>
   <p>
-  💻 &nbsp; I'm currently working on my personal website </br>
-  📚 &nbsp; I'm currently learning Android Development</br>
+  📚 &nbsp; I'm currently learning iOS Development</br>
   </p>
   <p>
   You can reach me at: <br>
